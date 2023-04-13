@@ -10,7 +10,7 @@ Overview
 3. Bestness of a Neighborhood: Walkability
 4. Each persons Submetrics:
     1. Jake - Pedestrians Walking Safety
-    2. Matt - Number of Speed Bumops in a neighborhood
+    2. Matt - Number of Speed Bumps in a neighborhood
     3. Jason - Walk score of a neighborhood
     4. Michael - Intersection Markings and Availability
 5. Each persons Data Sets:
