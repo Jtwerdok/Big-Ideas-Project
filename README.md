@@ -6,10 +6,11 @@ Overview
     1. Michael Wolfe: MEW194@pitt.edu; Notebook: mew194-final-project-walkability-ratio.ipynb
     2. Jacob Twerdok: JAT254@pitt.edu; Notebook: pedest-accidents.ipynb
     3. Jason Mertz: JAM789@pitt.edu; Notebook: Sidewalk_to_Street_Walkability_Ratio/Sidewalk to Street _Walkability_ Ratio.ipynb
+    4. Matthew Michaux: MRM272@pit.edu; Notebook: 
 3. Bestness of a Neighborhood: Walkability
 4. Each persons Submetrics:
     1. Jake - Pedestrians Walking Safety
-    2. Matt - Walkability of a neighborhood
+    2. Matt - Number of Speed Bumops in a neighborhood
     3. Jason - Walk score of a neighborhood
     4. Michael - Intersection Markings and Availability
 5. Each persons Data Sets:
