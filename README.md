@@ -12,7 +12,7 @@ Overview
     3. Jason - Walk score of a neighborhood
     4. Michael - Intersection Markings and Availability
 5. Each persons Data Sets:
-    1. Jake - Pittsburgh Police Arrest Data
+    1. Jake - Pittsburgh Police Arrest Data: https://data.wprdc.org/dataset/arrest-data
     2. Matt - Allegheny County Walk Scores
     3. Jason - Sidewalk to Street "Walkability" Ratio
     4. Michael - City of Pittsburgh Intersection Markings: https://data.wprdc.org/dataset/city-of-pittsburgh-markings
