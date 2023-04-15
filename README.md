@@ -23,4 +23,4 @@ Overview
 7. Repository: 
     https://github.com/Jtwerdok/Big-Ideas-Project
 8. Canvas group number: Final Project Group 22
-9. Overview: We are attempting to quantify the best neighborhood in Pittsburgh based on a walkability and a series of walkability submetrics.
+9. Overview: We are attempting to quantify the best neighborhood in Pittsburgh based on walkability and a series of walkability submetrics.
