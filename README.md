@@ -1,7 +1,7 @@
 # Big-Ideas-Project
 
 Overview
-1. Group Names: Walking Group
+1. Group Names: Walking Group (Final Project Group 22)
 2. Team Member Names and Emails:
     1. Michael Wolfe: MEW194@pitt.edu; Notebook: mew194-final-project-walkability-ratio.ipynb
     2. Jacob Twerdok: JAT254@pitt.edu; Notebook: pedest-accidents.ipynb
